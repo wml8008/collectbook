@@ -1,0 +1,81 @@
+{
+    "pages": [ //pages数组中第一项表示应用启动页,
+	{
+		"path": "pages/user/labelList",
+		"style": {
+			"navigationBarTitleText": "标签管理"
+		}
+	},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "书城"
+			}
+		},
+		{
+			"path": "pages/scancode/find",
+			"style": {
+				"navigationBarTitleText": "录入"
+			}
+		},
+		{
+			"path": "pages/bookDetails/bookDetails",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationBarTextStyle": "white",
+				"backgroundTextStyle": "dark",
+				"backgroundColor": "#e6e6e6",
+				"navigationBarBackgroundColor": "#68BFFF"
+			}
+		},
+
+
+
+
+		{
+			"path": "pages/scancode/sweepCodeResort",
+			"style": {
+				"navigationBarTitleText": "录入结果"
+			}
+		},
+
+		{
+			"path": "pages/booklist/lookBooklist",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+
+
+		
+		
+
+		{
+			"path": "pages/user/readType",
+			"style": {
+				"navigationBarTitleText": "想读"
+			}
+		},
+		{
+			"path": "pages/user/myBook",
+			"style": {
+				"navigationBarTitleText": "我的书单"
+			}
+		},
+	
+		{
+			"path": "pages/user/aboutUs",
+			"style": {
+				"navigationBarTitleText": "关于我们"
+			}
+		}
+		
+	
+    ],
+ 
+    "globalStyle": {
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#ffffff",
+        "backgroundColor": "#ffffff"
+    }
+}

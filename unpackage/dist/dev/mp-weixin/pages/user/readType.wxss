@@ -1,0 +1,14 @@
+
+.readType.data-v-2a524e4e{
+	width:100%;
+	height:100%;
+	overflow-x:hidden;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
+}
+.bottomNull.data-v-2a524e4e{
+	height:100rpx;
+}
+
+
+
