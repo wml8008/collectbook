@@ -1,9 +1,0 @@
-{
-  "navigationBarTitleText": "书城",
-  "usingComponents": {
-    "my-index": "/pages/myIndex/myIndex",
-    "scancode": "/pages/scancode/scancode",
-    "booklist": "/pages/booklist/booklist",
-    "user": "/pages/user/user"
-  }
-}
